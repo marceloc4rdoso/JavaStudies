@@ -1,5 +1,5 @@
 # <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" height="40"/> Java Studies
-This repository is dedicated to Java language studies. Here are studies carried out at SENAI São Paulo, Alura and on my own
+This repository is dedicated to Java language studies. Here are studies carried out at **SENAI São Paulo**, **Alura** and on my own
 
 Codes developed in [ALURA](https://www.alura.com.br/) and [SENAI SP](https://www.sp.senai.br/cursos/cursos-livres/tecnologia-da-informacao-e-informatica) courses. Exercises, Challenges and Projects.
 
